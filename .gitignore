@@ -1,0 +1,8 @@
+# System files
+Thumbs.db
+
+# Editor folders
+.vscode/
+
+# Logs
+*.log
